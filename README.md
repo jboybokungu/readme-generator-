@@ -31,6 +31,24 @@ THEN I am taken to the corresponding section of the README
 
 ```
 
+
+
+
 ## Video
 
-Watch video [here](https://youtu.be/GxWAEcYMBT0)
+[Link to video](https://drive.google.com/file/d/1nUR97oJVWVm7Mm1mXAX1pKp0uZ5q-PJS/view?usp=sharing)
+
+
+[Link to Readme](https://github.com/jboybokungu/readme-generator-/blob/main/TEST.md)
+
+
+[Link to GitHub repo](https://github.com/jboybokungu/readme-generator-)
+
+
+
+## Screnshots 
+
+![readme screenshot](image/testfile.png)
+
+
+![terminal screenshot](image/terminal.png)

@@ -1,9 +1,9 @@
-# README generator 
+# Readme generator 
 
 
 ### Description
 
-  I have written codes that generate a README file 
+  I have generated a readme file 
 
 #### Table of Contents
  - [Description](#Description)
@@ -17,26 +17,26 @@
 
 ### Installation
 
-  I typed npm install -y in the terminal
+  npm install -y
 
 ### Usage
 
-  by responding to the question
+  tshg
 
 
 ### License
 
-[![License: IPL 1.0](https://img.shields.io/badge/License-IPL%201.0-blue.svg)](https://opensource.org/licenses/IPL-1.0)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
 ### Contributing 
 
-Only me 
+me, myself and I 
 
 
 ### Tests
 
-yes, we are testing it right now 
+yes we can 
 
 ### Questions
 
