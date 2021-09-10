@@ -1,45 +1,46 @@
-# README.md
+# README generator 
 
 
 ### Description
 
-  I have written codes to generate a README file
+  I have written codes that generate a README file 
 
 #### Table of Contents
- - [Description]
- - [Installation]
- - [Usage]
- - [License]
- - [Contribution]
- - [Tests]
- - [Questions]
+ - [Description](#Description)
+ - [Installation](#Installation)
+ - [Usage](#Usage)
+ - [License](#License)
+ - [Contribution](#Contribution)
+ - [Tests](#Tests)
+ - [Questions](#Questions)
+ - [Contact](#Contact)
 
 ### Installation
 
-  by typing npm i inquirer
+  I typed npm install -y in the terminal
 
 ### Usage
 
-  you have to answer the questions in order to generate the file
+  by responding to the question
 
 
 ### License
 
-[![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
+[![License: IPL 1.0](https://img.shields.io/badge/License-IPL%201.0-blue.svg)](https://opensource.org/licenses/IPL-1.0)
 
 
 ### Contributing 
 
-only me 
+Only me 
 
 
 ### Tests
 
-yes we can test it 
+yes, we are testing it right now 
 
 ### Questions
 
-no questions 
+not at the moment 
 
 ### Contact
 

@@ -26,7 +26,7 @@ inquirer.prompt([
     {
         type: 'list',
         message: 'Which license are you using?',
-        name: "license",
+        name: 'license',
         choices: ["MIT","IBM","ISC"]
     },
     {
